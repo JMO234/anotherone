@@ -31,12 +31,7 @@ main()
 
 
 ## Data sources and AI methods
-customer surveys, transcript of interactions
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+customer interactions and surveys
 
 ## Challenges
 
