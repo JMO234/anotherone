@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-With the help of putting value to words we would be able to identify dissatisfied customers especially if we can identify the combination of words the custmer use
+With the help of putting value to words we would be able to identify dissatisfied customers especially if we can identify the combination of words the custmer use this is for Building AI course project
 
 ## Background
 
